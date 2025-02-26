@@ -5,7 +5,8 @@ when ur done it shud look like **this**
 
 First u download the css and html and javascript file
 Here is what the files name is :
-![image](https://github.com/user-attachments/assets/e5b7f622-9a6f-46f6-b67d-ceb13387b6f0)
+![image](https://github.com/user-attachments/assets/e5b7f622-9a6f-46f6-b67d-ceb13387b6f0) ![image](https://github.com/user-attachments/assets/336a91d2-3763-4c7f-95e9-9a0771fe1702)
+
 
 
 Then u shud get this as i mentiond
